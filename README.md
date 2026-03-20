@@ -89,6 +89,14 @@ This helps avoid penalizing users affected by transient network issues or weathe
 - JavaScript (ES modules)
 - CSS
 
+## Try It Out
+
+Live demo:
+
+https://vyshnavireddy05.github.io/delivery-insurance-fraud-detection/
+
+If the page shows 404 right after a push, wait 1-2 minutes for GitHub Actions deployment to complete.
+
 ## How To Run The Project
 
 ### Prerequisites
